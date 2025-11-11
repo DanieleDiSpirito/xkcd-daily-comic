@@ -56,18 +56,13 @@ jobs:
           alt=$(cat latest-xkcd-alt.txt)
           link="https://xkcd.com/$num"
 
-          # Creazione README
-          cat > README.md <<'EOF'
-# XKCD of the Day
-
-### [#${num} – ${title}](${link})
-
-![Latest XKCD](latest-xkcd.png)
-
-> ${alt}
-
-_Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")_
-EOF
+          # README.md
+          echo "# XKCD of the Day" > README.md
+          echo "### [#${num} – ${title}](${link})" >> README.md
+          echo "![Latest XKCD](latest-xkcd.png)" >> README.md
+          echo "> ${alt}" >> README.md
+          echo "_Last updated: $(date -u +'%Y-%m-%d %H:%M UTC')_" >> README.md
+          echo "EOF" >> README.md
 
       - name: Commit and push changes
         if: steps.check_day.outputs.skip == 'false'

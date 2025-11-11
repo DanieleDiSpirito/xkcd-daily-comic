@@ -1,0 +1,79 @@
+name: Update XKCD Comic
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # ogni giorno alle 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-xkcd:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check if today is an XKCD day (Mon/Wed/Fri)
+        id: check_day
+        run: |
+          day=$(date -u +%u)
+          if [[ "$day" =~ ^(1|3|5)$ ]]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+          else
+            echo "skip=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Stop if non-XKCD day
+        if: steps.check_day.outputs.skip == 'true'
+        run: echo "No new comic today. Skipping update."
+
+      - name: Fetch latest XKCD
+        if: steps.check_day.outputs.skip == 'false'
+        run: |
+          url="https://xkcd.com/info.0.json"
+          echo "Fetching $url"
+          curl -s "$url" -o xkcd.json
+          img_url=$(jq -r .img xkcd.json)
+          title=$(jq -r .title xkcd.json)
+          num=$(jq -r .num xkcd.json)
+          alt=$(jq -r .alt xkcd.json)
+
+          echo "Title: $title"
+          echo "$title" > latest-xkcd-title.txt
+          echo "$num" > latest-xkcd-num.txt
+          echo "$alt" > latest-xkcd-alt.txt
+
+          curl -s -L "$img_url" -o latest-xkcd.png
+
+      - name: Update README
+        if: steps.check_day.outputs.skip == 'false'
+        run: |
+          title=$(cat latest-xkcd-title.txt)
+          num=$(cat latest-xkcd-num.txt)
+          alt=$(cat latest-xkcd-alt.txt)
+          link="https://xkcd.com/$num"
+
+          cat > README.md <<EOF
+# XKCD of the Day
+
+### [#${num} – ${title}](${link})
+
+![Latest XKCD](latest-xkcd.png)
+
+> ${alt}
+
+_Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")_
+EOF
+
+      - name: Commit and push changes
+        if: steps.check_day.outputs.skip == 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add latest-xkcd.png latest-xkcd-title.txt latest-xkcd-num.txt latest-xkcd-alt.txt README.md
+          git commit -m "Update XKCD #$(cat latest-xkcd-num.txt): $(cat latest-xkcd-title.txt)"
+          git push
+

@@ -1,2 +1,9 @@
-# xkcd-daily-comic
-This repo gives you the XKCD comic of the day.
+# XKCD of the Day
+
+### [#3166 – Big and Little Spoons](https://xkcd.com/3166)
+
+![Latest XKCD](latest-xkcd.png)
+
+> Are you the annoying spoon or the sleepy spoon?
+
+_Last updated: 2025-11-11 12:17 UTC_

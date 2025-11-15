@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3167 – Car Size](https://xkcd.com/3167)
-![Latest XKCD](latest-xkcd.png)
-> 'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'
-_Last updated: 2025-11-14 08:30 UTC_
+### [#3168 – Beam Dump](https://xkcd.com/3168)
+![XKCD](latest-xkcd.png)
+> We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.
+_Last updated: 2025-11-15 16:41 UTC_
 EOF

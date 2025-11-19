@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3168 – Beam Dump](https://xkcd.com/3168)
+### [#3169 – EPIRBs](https://xkcd.com/3169)
 ![Latest XKCD](latest-xkcd.png)
-> We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.
-_Last updated: 2025-11-17 10:29 UTC_
+> 'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'
+_Last updated: 2025-11-19 10:28 UTC_
 EOF

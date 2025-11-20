@@ -2,7 +2,7 @@ name: Update XKCD Comic
 
 on:
   schedule:
-    - cron: '0 10 * * *'   # 08:00 UTC
+    - cron: '0 7 * * *'   # 07:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
         id: check_day
         run: |
           day=$(date -u +%u)
-          if [[ "$day" =~ ^(1|3|5)$ ]]; then
+          if [[ "$day" =~ ^(2|4|6)$ ]]; then
             echo "skip=false" >> $GITHUB_OUTPUT
           else
             echo "skip=true" >> $GITHUB_OUTPUT

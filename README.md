@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3169 – EPIRBs](https://xkcd.com/3169)
+### [#3170 – Service Outage](https://xkcd.com/3170)
 ![Latest XKCD](latest-xkcd.png)
-> 'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'
-_Last updated: 2025-11-19 10:28 UTC_
+> Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.
+_Last updated: 2025-11-21 12:58 UTC_
 EOF

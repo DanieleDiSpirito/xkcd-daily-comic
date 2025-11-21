@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check if today is an XKCD day (Mon/Wed/Fri)
+      - name: Check if today is an XKCD day (Tue/Thu/Sat)
         id: check_day
         run: |
           day=$(date -u +%u)

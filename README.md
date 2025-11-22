@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3170 – Service Outage](https://xkcd.com/3170)
+### [#3171 – Geologic Core Sample](https://xkcd.com/3171)
 ![Latest XKCD](latest-xkcd.png)
-> Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.
-_Last updated: 2025-11-21 12:58 UTC_
+> If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.
+_Last updated: 2025-11-22 07:09 UTC_
 EOF

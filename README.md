@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3171 – Geologic Core Sample](https://xkcd.com/3171)
+### [#3172 – Fifteen Years](https://xkcd.com/3172)
 ![Latest XKCD](latest-xkcd.png)
-> If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.
-_Last updated: 2025-11-22 07:09 UTC_
+> "Want to feel old?" "Yes."
+_Last updated: 2025-11-25 07:11 UTC_
 EOF

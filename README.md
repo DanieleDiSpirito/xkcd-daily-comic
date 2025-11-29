@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3173 – Satellite Imagery](https://xkcd.com/3173)
+### [#3174 – Bridge Clearance](https://xkcd.com/3174)
 ![Latest XKCD](latest-xkcd.png)
-> Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.
-_Last updated: 2025-11-27 07:12 UTC_
+> A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.
+_Last updated: 2025-11-29 07:09 UTC_
 EOF

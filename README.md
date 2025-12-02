@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3174 – Bridge Clearance](https://xkcd.com/3174)
+### [#3175 – Website Task Flowchart](https://xkcd.com/3175)
 ![Latest XKCD](latest-xkcd.png)
-> A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.
-_Last updated: 2025-11-29 07:09 UTC_
+> Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!
+_Last updated: 2025-12-02 07:14 UTC_
 EOF

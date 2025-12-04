@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3175 – Website Task Flowchart](https://xkcd.com/3175)
+### [#3176 – Inverted Catenaries](https://xkcd.com/3176)
 ![Latest XKCD](latest-xkcd.png)
-> Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!
-_Last updated: 2025-12-02 07:14 UTC_
+> Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.
+_Last updated: 2025-12-04 07:12 UTC_
 EOF

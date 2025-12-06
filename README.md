@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3176 – Inverted Catenaries](https://xkcd.com/3176)
+### [#3177 – Chessboard Alignment](https://xkcd.com/3177)
 ![Latest XKCD](latest-xkcd.png)
-> Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.
-_Last updated: 2025-12-04 07:12 UTC_
+> Luckily, the range is limited by the fact that the square boundary lines follow great circles.
+_Last updated: 2025-12-06 07:09 UTC_
 EOF

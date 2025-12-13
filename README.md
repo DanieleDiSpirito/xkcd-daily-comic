@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3179 – Fishing](https://xkcd.com/3179)
+### [#3180 – Apples](https://xkcd.com/3180)
 ![Latest XKCD](latest-xkcd.png)
-> 'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'
-_Last updated: 2025-12-11 07:15 UTC_
+> The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.
+_Last updated: 2025-12-13 07:09 UTC_
 EOF

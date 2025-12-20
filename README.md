@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3182 – Telescope Types](https://xkcd.com/3182)
+### [#3183 – Pole Vault Pole](https://xkcd.com/3183)
 ![Latest XKCD](latest-xkcd.png)
-> I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.
-_Last updated: 2025-12-18 07:14 UTC_
+> My goal in life is to be personally responsible for at least one sports rule change.
+_Last updated: 2025-12-20 07:09 UTC_
 EOF

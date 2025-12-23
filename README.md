@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3183 – Pole Vault Pole](https://xkcd.com/3183)
+### [#3184 – Funny Numbers](https://xkcd.com/3184)
 ![Latest XKCD](latest-xkcd.png)
-> My goal in life is to be personally responsible for at least one sports rule change.
-_Last updated: 2025-12-20 07:09 UTC_
+> In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.
+_Last updated: 2025-12-23 07:15 UTC_
 EOF

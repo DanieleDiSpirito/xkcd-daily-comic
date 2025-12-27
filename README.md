@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3185 – Sauropods](https://xkcd.com/3185)
+### [#3186 – Truly Universal Outlet](https://xkcd.com/3186)
 ![Latest XKCD](latest-xkcd.png)
-> Vertebrae Georg
-_Last updated: 2025-12-25 07:13 UTC_
+> Building Inspectors HATE This One Weird Trick
+_Last updated: 2025-12-27 07:10 UTC_
 EOF

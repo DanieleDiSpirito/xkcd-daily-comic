@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3187 – High Altitude Cooking Instructions](https://xkcd.com/3187)
+### [#3188 – Anyone Else Here](https://xkcd.com/3188)
 ![Latest XKCD](latest-xkcd.png)
-> 1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.
-_Last updated: 2025-12-30 07:14 UTC_
+> Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
+_Last updated: 2026-01-01 07:15 UTC_
 EOF

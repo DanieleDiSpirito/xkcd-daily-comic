@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3188 – Anyone Else Here](https://xkcd.com/3188)
+### [#3189 – Conic Sections](https://xkcd.com/3189)
 ![Latest XKCD](latest-xkcd.png)
-> Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
-_Last updated: 2026-01-01 07:15 UTC_
+> They're not generally used for crewed spacecraft because astronauts HATE going around the corners.
+_Last updated: 2026-01-03 07:10 UTC_
 EOF

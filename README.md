@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3190 – Tensegrity](https://xkcd.com/3190)
+### [#3191 – Superstition](https://xkcd.com/3191)
 ![Latest XKCD](latest-xkcd.png)
-> Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.
-_Last updated: 2026-01-06 07:17 UTC_
+> It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!
+_Last updated: 2026-01-08 07:16 UTC_
 EOF

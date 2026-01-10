@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3191 – Superstition](https://xkcd.com/3191)
+### [#3192 – Planetary Alignment](https://xkcd.com/3192)
 ![Latest XKCD](latest-xkcd.png)
-> It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!
-_Last updated: 2026-01-08 07:16 UTC_
+> We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?
+_Last updated: 2026-01-10 07:10 UTC_
 EOF

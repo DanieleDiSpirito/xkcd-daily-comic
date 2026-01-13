@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3192 – Planetary Alignment](https://xkcd.com/3192)
+### [#3193 – Sailing Rigs](https://xkcd.com/3193)
 ![Latest XKCD](latest-xkcd.png)
-> We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?
-_Last updated: 2026-01-10 07:10 UTC_
+> I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.
+_Last updated: 2026-01-13 07:16 UTC_
 EOF

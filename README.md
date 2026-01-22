@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3196 – Aurora Coolness](https://xkcd.com/3196)
+### [#3197 – Cost Savings](https://xkcd.com/3197)
 ![Latest XKCD](latest-xkcd.png)
-> I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.
-_Last updated: 2026-01-20 07:19 UTC_
+> Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.
+_Last updated: 2026-01-22 07:18 UTC_
 EOF

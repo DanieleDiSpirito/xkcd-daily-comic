@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3197 – Cost Savings](https://xkcd.com/3197)
+### [#3198 – Double-Pronged Extension Cord](https://xkcd.com/3198)
 ![Latest XKCD](latest-xkcd.png)
-> Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.
-_Last updated: 2026-01-22 07:18 UTC_
+> 'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'
+_Last updated: 2026-01-24 07:11 UTC_
 EOF

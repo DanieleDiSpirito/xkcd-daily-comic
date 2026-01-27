@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3198 – Double-Pronged Extension Cord](https://xkcd.com/3198)
+### [#3199 – Early Arthropods](https://xkcd.com/3199)
 ![Latest XKCD](latest-xkcd.png)
-> 'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'
-_Last updated: 2026-01-24 07:11 UTC_
+> 'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects
+_Last updated: 2026-01-27 07:19 UTC_
 EOF

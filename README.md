@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3201 – Proof Without Content](https://xkcd.com/3201)
+### [#3202 – Groundhog Day Meaning](https://xkcd.com/3202)
 ![Latest XKCD](latest-xkcd.png)
-> There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.
-_Last updated: 2026-01-31 07:20 UTC_
+> Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.
+_Last updated: 2026-02-03 07:34 UTC_
 EOF

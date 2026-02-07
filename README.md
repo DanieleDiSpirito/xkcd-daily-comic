@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3203 – Binary Star](https://xkcd.com/3203)
+### [#3204 – Dinosaurs And Non-Dinosaurs](https://xkcd.com/3204)
 ![Latest XKCD](latest-xkcd.png)
-> The discovery of a fully typographical star system comes with a big asterisk.
-_Last updated: 2026-02-05 07:41 UTC_
+> Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.
+_Last updated: 2026-02-07 07:23 UTC_
 EOF

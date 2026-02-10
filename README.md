@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3204 – Dinosaurs And Non-Dinosaurs](https://xkcd.com/3204)
+### [#3205 – Carbon Dating](https://xkcd.com/3205)
 ![Latest XKCD](latest-xkcd.png)
-> Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.
-_Last updated: 2026-02-07 07:23 UTC_
+> This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.
+_Last updated: 2026-02-10 07:51 UTC_
 EOF

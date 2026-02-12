@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3205 – Carbon Dating](https://xkcd.com/3205)
+### [#3206 – Installation](https://xkcd.com/3206)
 ![Latest XKCD](latest-xkcd.png)
-> This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.
-_Last updated: 2026-02-10 07:51 UTC_
+> Do YOU remember the skylight being this big?
+_Last updated: 2026-02-12 07:43 UTC_
 EOF

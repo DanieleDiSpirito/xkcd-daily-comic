@@ -1,1 +1,1 @@
-Installation
+Bad Map Projection: Zero Declination

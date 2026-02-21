@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3209 – Plums](https://xkcd.com/3209)
+### [#3210 – Eliminating the Impossible](https://xkcd.com/3210)
 ![Latest XKCD](latest-xkcd.png)
-> My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.
-_Last updated: 2026-02-19 07:41 UTC_
+> 'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.
+_Last updated: 2026-02-21 07:23 UTC_
 EOF

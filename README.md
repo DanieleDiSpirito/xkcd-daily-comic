@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3210 – Eliminating the Impossible](https://xkcd.com/3210)
+### [#3211 – Amperage](https://xkcd.com/3211)
 ![Latest XKCD](latest-xkcd.png)
-> 'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.
-_Last updated: 2026-02-21 07:23 UTC_
+> Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?
+_Last updated: 2026-02-24 07:42 UTC_
 EOF

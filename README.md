@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3211 – Amperage](https://xkcd.com/3211)
+### [#3212 – Little Red Dots](https://xkcd.com/3212)
 ![Latest XKCD](latest-xkcd.png)
-> Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?
-_Last updated: 2026-02-24 07:42 UTC_
+> After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.
+_Last updated: 2026-02-26 07:42 UTC_
 EOF

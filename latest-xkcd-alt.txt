@@ -1,1 +1,1 @@
-After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.
+I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.

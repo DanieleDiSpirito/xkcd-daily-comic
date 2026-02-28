@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3212 – Little Red Dots](https://xkcd.com/3212)
+### [#3213 – Dental Formulas](https://xkcd.com/3213)
 ![Latest XKCD](latest-xkcd.png)
-> After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.
-_Last updated: 2026-02-26 07:42 UTC_
+> I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.
+_Last updated: 2026-02-28 07:17 UTC_
 EOF

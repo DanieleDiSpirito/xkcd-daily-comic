@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3213 – Dental Formulas](https://xkcd.com/3213)
+### [#3214 – Electric Vehicles](https://xkcd.com/3214)
 ![Latest XKCD](latest-xkcd.png)
-> I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.
-_Last updated: 2026-02-28 07:17 UTC_
+> Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.
+_Last updated: 2026-03-03 07:34 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3215 – Solar Warning](https://xkcd.com/3215)
+### [#3216 – Bazookasaurus](https://xkcd.com/3216)
 ![Latest XKCD](latest-xkcd.png)
-> This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.
-_Last updated: 2026-03-05 07:34 UTC_
+> In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.
+_Last updated: 2026-03-07 07:20 UTC_
 EOF

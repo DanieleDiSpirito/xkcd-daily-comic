@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3218 – Subduction Retrieval](https://xkcd.com/3218)
+### [#3219 – Planets and Bright Stars](https://xkcd.com/3219)
 ![Latest XKCD](latest-xkcd.png)
-> Aww, the oceanic crust and the continental crust are getting married!
-_Last updated: 2026-03-12 07:38 UTC_
+> An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.
+_Last updated: 2026-03-14 07:27 UTC_
 EOF

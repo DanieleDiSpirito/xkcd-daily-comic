@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3219 – Planets and Bright Stars](https://xkcd.com/3219)
+### [#3220 – Rotational Gravity](https://xkcd.com/3220)
 ![Latest XKCD](latest-xkcd.png)
-> An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.
-_Last updated: 2026-03-14 07:27 UTC_
+> I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.
+_Last updated: 2026-03-17 07:45 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3221 – Landscape Features](https://xkcd.com/3221)
+### [#3222 – Star Formation](https://xkcd.com/3222)
 ![Latest XKCD](latest-xkcd.png)
-> 'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question
-_Last updated: 2026-03-19 07:38 UTC_
+> It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!
+_Last updated: 2026-03-21 07:25 UTC_
 EOF

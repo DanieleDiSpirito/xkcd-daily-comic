@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3224 – Centimeter Wavelengths](https://xkcd.com/3224)
+### [#3225 – Satellite Pollution](https://xkcd.com/3225)
 ![Latest XKCD](latest-xkcd.png)
-> Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?
-_Last updated: 2026-03-26 07:53 UTC_
+> We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.
+_Last updated: 2026-03-28 07:37 UTC_
 EOF

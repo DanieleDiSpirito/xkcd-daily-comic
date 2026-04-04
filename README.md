@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3227 – Creation](https://xkcd.com/3227)
+### [#3228 – Day Counter](https://xkcd.com/3228)
 ![Latest XKCD](latest-xkcd.png)
-> This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.
-_Last updated: 2026-04-02 07:57 UTC_
+> It has been −2,147,483,648 days since our last integer overflow.
+_Last updated: 2026-04-04 07:40 UTC_
 EOF

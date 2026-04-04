@@ -1,1 +1,1 @@
-This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.
+It has been −2,147,483,648 days since our last integer overflow.

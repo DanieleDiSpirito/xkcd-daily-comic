@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3230 – Overton](https://xkcd.com/3230)
+### [#3231 – Lightning](https://xkcd.com/3231)
 ![Latest XKCD](latest-xkcd.png)
-> I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.
-_Last updated: 2026-04-09 08:09 UTC_
+> Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.
+_Last updated: 2026-04-11 07:41 UTC_
 EOF

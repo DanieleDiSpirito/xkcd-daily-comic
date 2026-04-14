@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3231 – Lightning](https://xkcd.com/3231)
+### [#3232 – Countdown Standard](https://xkcd.com/3232)
 ![Latest XKCD](latest-xkcd.png)
-> Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.
-_Last updated: 2026-04-11 07:41 UTC_
+> Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.
+_Last updated: 2026-04-14 08:19 UTC_
 EOF

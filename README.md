@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3235 – Types of Board Game](https://xkcd.com/3235)
+### [#3236 – Border Message](https://xkcd.com/3236)
 ![Latest XKCD](latest-xkcd.png)
-> I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.
-_Last updated: 2026-04-21 08:24 UTC_
+> Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.
+_Last updated: 2026-04-23 08:27 UTC_
 EOF

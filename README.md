@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3236 – Border Message](https://xkcd.com/3236)
+### [#3237 – Husband and Wife](https://xkcd.com/3237)
 ![Latest XKCD](latest-xkcd.png)
-> Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.
-_Last updated: 2026-04-23 08:27 UTC_
+> Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.
+_Last updated: 2026-04-25 07:58 UTC_
 EOF

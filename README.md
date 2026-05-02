@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3239 – Simple Machines](https://xkcd.com/3239)
+### [#3240 – Bottle](https://xkcd.com/3240)
 ![Latest XKCD](latest-xkcd.png)
-> It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.
-_Last updated: 2026-04-30 09:06 UTC_
+> "I know it seems impossible, but the trick is that I sailed in here when I was very young."
+_Last updated: 2026-05-02 08:16 UTC_
 EOF

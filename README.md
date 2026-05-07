@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3240 – Bottle](https://xkcd.com/3240)
+### [#3242 – Aperiodic Table](https://xkcd.com/3242)
 ![Latest XKCD](latest-xkcd.png)
-> "I know it seems impossible, but the trick is that I sailed in here when I was very young."
-_Last updated: 2026-05-05 09:02 UTC_
+> Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.
+_Last updated: 2026-05-07 09:24 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3242 – Aperiodic Table](https://xkcd.com/3242)
+### [#3243 – Crystal Gazing](https://xkcd.com/3243)
 ![Latest XKCD](latest-xkcd.png)
-> Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.
-_Last updated: 2026-05-07 09:24 UTC_
+> 'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.
+_Last updated: 2026-05-09 08:22 UTC_
 EOF

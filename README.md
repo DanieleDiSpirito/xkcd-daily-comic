@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3244 – Pullback Drive](https://xkcd.com/3244)
+### [#3245 – Results Age](https://xkcd.com/3245)
 ![Latest XKCD](latest-xkcd.png)
-> "How does the spring not run out almost immediately?" "We pull it back REALLY far."
-_Last updated: 2026-05-12 09:27 UTC_
+> Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.
+_Last updated: 2026-05-14 09:24 UTC_
 EOF

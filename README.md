@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3245 – Results Age](https://xkcd.com/3245)
+### [#3246 – Speedrun](https://xkcd.com/3246)
 ![Latest XKCD](latest-xkcd.png)
-> Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.
-_Last updated: 2026-05-14 09:24 UTC_
+> Usain Bolt holds the world record in the 100 meter speedrun.
+_Last updated: 2026-05-16 08:29 UTC_
 EOF

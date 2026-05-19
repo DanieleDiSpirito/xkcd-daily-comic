@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3246 – Speedrun](https://xkcd.com/3246)
+### [#3247 – Particle Census](https://xkcd.com/3247)
 ![Latest XKCD](latest-xkcd.png)
-> Usain Bolt holds the world record in the 100 meter speedrun.
-_Last updated: 2026-05-16 08:29 UTC_
+> Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.
+_Last updated: 2026-05-19 10:29 UTC_
 EOF

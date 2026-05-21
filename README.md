@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3247 – Particle Census](https://xkcd.com/3247)
+### [#3248 – 182.8 Meters](https://xkcd.com/3248)
 ![Latest XKCD](latest-xkcd.png)
-> Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.
-_Last updated: 2026-05-19 10:29 UTC_
+> They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.
+_Last updated: 2026-05-21 10:27 UTC_
 EOF

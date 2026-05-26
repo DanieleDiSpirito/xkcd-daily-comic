@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3249 – Neutrino Project](https://xkcd.com/3249)
+### [#3250 – Flag Design](https://xkcd.com/3250)
 ![Latest XKCD](latest-xkcd.png)
-> We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.
-_Last updated: 2026-05-23 08:55 UTC_
+> Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.
+_Last updated: 2026-05-26 10:38 UTC_
 EOF

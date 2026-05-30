@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3251 – Time Machine Conversation](https://xkcd.com/3251)
+### [#3252 – Ancestral Genomes](https://xkcd.com/3252)
 ![Latest XKCD](latest-xkcd.png)
-> It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.
-_Last updated: 2026-05-28 10:42 UTC_
+> SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.
+_Last updated: 2026-05-30 09:07 UTC_
 EOF

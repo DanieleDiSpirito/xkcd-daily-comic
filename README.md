@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3252 – Ancestral Genomes](https://xkcd.com/3252)
+### [#3253 – Sunbeam](https://xkcd.com/3253)
 ![Latest XKCD](latest-xkcd.png)
-> SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.
-_Last updated: 2026-05-30 09:07 UTC_
+> While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.
+_Last updated: 2026-06-02 11:09 UTC_
 EOF

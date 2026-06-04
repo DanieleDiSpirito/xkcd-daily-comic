@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3253 – Sunbeam](https://xkcd.com/3253)
+### [#3254 – Detector](https://xkcd.com/3254)
 ![Latest XKCD](latest-xkcd.png)
-> While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.
-_Last updated: 2026-06-02 11:09 UTC_
+> No other experiment has a lower false negative rate.
+_Last updated: 2026-06-04 10:31 UTC_
 EOF

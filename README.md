@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3254 – Detector](https://xkcd.com/3254)
+### [#3255 – Planetary Science](https://xkcd.com/3255)
 ![Latest XKCD](latest-xkcd.png)
-> No other experiment has a lower false negative rate.
-_Last updated: 2026-06-04 10:31 UTC_
+> The research was overseen by the Institutional Review Board, which is what I named my surfboard.
+_Last updated: 2026-06-06 09:15 UTC_
 EOF

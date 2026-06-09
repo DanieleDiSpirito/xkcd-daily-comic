@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3255 – Planetary Science](https://xkcd.com/3255)
+### [#3256 – Nostalgia Content](https://xkcd.com/3256)
 ![Latest XKCD](latest-xkcd.png)
-> The research was overseen by the Institutional Review Board, which is what I named my surfboard.
-_Last updated: 2026-06-06 09:15 UTC_
+> Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.
+_Last updated: 2026-06-09 10:24 UTC_
 EOF

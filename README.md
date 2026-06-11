@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3256 – Nostalgia Content](https://xkcd.com/3256)
+### [#3257 – Beam Pipe](https://xkcd.com/3257)
 ![Latest XKCD](latest-xkcd.png)
-> Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.
-_Last updated: 2026-06-09 10:24 UTC_
+> 'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom
+_Last updated: 2026-06-11 11:15 UTC_
 EOF

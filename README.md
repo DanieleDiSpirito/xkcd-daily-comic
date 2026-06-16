@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3258 – Plate Flip](https://xkcd.com/3258)
+### [#3259 – Tethys](https://xkcd.com/3259)
 ![Latest XKCD](latest-xkcd.png)
-> It's great for exfoliating your skin, bones, houses, cities, landscape, etc.
-_Last updated: 2026-06-13 09:48 UTC_
+> In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.
+_Last updated: 2026-06-16 12:00 UTC_
 EOF

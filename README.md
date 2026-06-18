@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3259 – Tethys](https://xkcd.com/3259)
+### [#3260 – Messi](https://xkcd.com/3260)
 ![Latest XKCD](latest-xkcd.png)
-> In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.
-_Last updated: 2026-06-16 12:00 UTC_
+> Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.
+_Last updated: 2026-06-18 11:02 UTC_
 EOF

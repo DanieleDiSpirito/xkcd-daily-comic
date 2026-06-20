@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3260 – Messi](https://xkcd.com/3260)
+### [#3261 – Side Effect](https://xkcd.com/3261)
 ![Latest XKCD](latest-xkcd.png)
-> Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.
-_Last updated: 2026-06-18 11:02 UTC_
+> Brace yourself--the chirp gets pretty weird.
+_Last updated: 2026-06-20 09:56 UTC_
 EOF

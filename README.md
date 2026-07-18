@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3272 – Time Change](https://xkcd.com/3272)
+### [#3273 – Latitude and Longitude](https://xkcd.com/3273)
 ![Latest XKCD](latest-xkcd.png)
-> All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.
-_Last updated: 2026-07-16 09:06 UTC_
+> NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).
+_Last updated: 2026-07-18 08:29 UTC_
 EOF

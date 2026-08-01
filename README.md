@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3278 – Vera Rubin Observatory](https://xkcd.com/3278)
+### [#3279 – Main Span](https://xkcd.com/3279)
 ![Latest XKCD](latest-xkcd.png)
-> 'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.
-_Last updated: 2026-07-30 09:23 UTC_
+> Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?
+_Last updated: 2026-08-01 08:58 UTC_
 EOF

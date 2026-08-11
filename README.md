@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3282 – Trick Play](https://xkcd.com/3282)
+### [#3283 – Size and Lifespan](https://xkcd.com/3283)
 ![Latest XKCD](latest-xkcd.png)
-> I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.
-_Last updated: 2026-08-08 07:38 UTC_
+> With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.
+_Last updated: 2026-08-11 08:00 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3287 – Perseids](https://xkcd.com/3287)
+### [#3288 – Archery Feat](https://xkcd.com/3288)
 ![Latest XKCD](latest-xkcd.png)
-> Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.
-_Last updated: 2026-08-20 07:30 UTC_
+> Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.
+_Last updated: 2026-08-22 07:21 UTC_
 EOF

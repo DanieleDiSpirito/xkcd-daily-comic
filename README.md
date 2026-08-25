@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3288 – Archery Feat](https://xkcd.com/3288)
+### [#3289 – Highway Signs](https://xkcd.com/3289)
 ![Latest XKCD](latest-xkcd.png)
-> Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.
-_Last updated: 2026-08-22 07:21 UTC_
+> Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.
+_Last updated: 2026-08-25 07:33 UTC_
 EOF

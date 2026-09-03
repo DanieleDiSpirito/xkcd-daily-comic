@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3292 – Geology Class](https://xkcd.com/3292)
+### [#3293 – Handedness](https://xkcd.com/3293)
 ![Latest XKCD](latest-xkcd.png)
-> The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.
-_Last updated: 2026-09-01 12:11 UTC_
+> A 'left-handed specialist' is a physicist who studies the weak interaction.
+_Last updated: 2026-09-03 11:48 UTC_
 EOF

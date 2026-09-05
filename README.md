@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3293 – Handedness](https://xkcd.com/3293)
+### [#3294 – Asteroid Mission](https://xkcd.com/3294)
 ![Latest XKCD](latest-xkcd.png)
-> A 'left-handed specialist' is a physicist who studies the weak interaction.
-_Last updated: 2026-09-03 11:48 UTC_
+> Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.
+_Last updated: 2026-09-05 10:59 UTC_
 EOF

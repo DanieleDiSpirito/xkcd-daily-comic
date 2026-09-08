@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3294 – Asteroid Mission](https://xkcd.com/3294)
+### [#3295 – Semaphore](https://xkcd.com/3295)
 ![Latest XKCD](latest-xkcd.png)
-> Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.
-_Last updated: 2026-09-05 10:59 UTC_
+> The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.
+_Last updated: 2026-09-08 11:50 UTC_
 EOF

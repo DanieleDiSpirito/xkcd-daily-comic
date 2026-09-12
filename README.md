@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3296 – Fault Taunting](https://xkcd.com/3296)
+### [#3297 – OH Scale](https://xkcd.com/3297)
 ![Latest XKCD](latest-xkcd.png)
-> One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.
-_Last updated: 2026-09-10 11:55 UTC_
+> To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.
+_Last updated: 2026-09-12 11:20 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3298 – Aerospace Flowchart](https://xkcd.com/3298)
+### [#3299 – Summer](https://xkcd.com/3299)
 ![Latest XKCD](latest-xkcd.png)
-> Someday, we will find the problem that goes with this solution.
-_Last updated: 2026-09-15 12:18 UTC_
+> You should probably get back to shore before spring hits.
+_Last updated: 2026-09-17 12:16 UTC_
 EOF

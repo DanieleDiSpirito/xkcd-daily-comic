@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3299 – Summer](https://xkcd.com/3299)
+### [#3300 – Tyrannosaurus](https://xkcd.com/3300)
 ![Latest XKCD](latest-xkcd.png)
-> You should probably get back to shore before spring hits.
-_Last updated: 2026-09-17 12:16 UTC_
+> Many of the smaller dinosaurs seem to have largely preyed on housecats.
+_Last updated: 2026-09-19 11:41 UTC_
 EOF

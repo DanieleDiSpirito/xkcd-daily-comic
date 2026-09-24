@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3301 – Stargazing 5](https://xkcd.com/3301)
+### [#3302 – Voyager Instruments](https://xkcd.com/3302)
 ![Latest XKCD](latest-xkcd.png)
-> The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.
-_Last updated: 2026-09-22 12:10 UTC_
+> Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.
+_Last updated: 2026-09-24 12:22 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3302 – Voyager Instruments](https://xkcd.com/3302)
+### [#3303 – Slab Graveyard](https://xkcd.com/3303)
 ![Latest XKCD](latest-xkcd.png)
-> Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.
-_Last updated: 2026-09-24 12:22 UTC_
+> It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!
+_Last updated: 2026-09-26 11:54 UTC_
 EOF

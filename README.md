@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3304 – Jupiter Icy Moons Explorer](https://xkcd.com/3304)
+### [#3305 – Ground Effect](https://xkcd.com/3305)
 ![Latest XKCD](latest-xkcd.png)
-> "I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."
-_Last updated: 2026-09-29 13:30 UTC_
+> Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.
+_Last updated: 2026-10-01 13:59 UTC_
 EOF

@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3305 – Ground Effect](https://xkcd.com/3305)
+### [#3306 – Accelerator Energies](https://xkcd.com/3306)
 ![Latest XKCD](latest-xkcd.png)
-> Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.
-_Last updated: 2026-10-01 13:59 UTC_
+> Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.
+_Last updated: 2026-10-03 12:07 UTC_
 EOF

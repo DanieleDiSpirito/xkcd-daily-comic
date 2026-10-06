@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3306 – Accelerator Energies](https://xkcd.com/3306)
+### [#3307 – Spectrum Allocation](https://xkcd.com/3307)
 ![Latest XKCD](latest-xkcd.png)
-> Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.
-_Last updated: 2026-10-03 12:07 UTC_
+> Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.
+_Last updated: 2026-10-06 13:43 UTC_
 EOF

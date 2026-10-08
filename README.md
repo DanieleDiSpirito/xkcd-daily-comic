@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3307 – Spectrum Allocation](https://xkcd.com/3307)
+### [#3308 – Juice](https://xkcd.com/3308)
 ![Latest XKCD](latest-xkcd.png)
-> Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.
-_Last updated: 2026-10-06 13:43 UTC_
+> I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.
+_Last updated: 2026-10-08 14:07 UTC_
 EOF

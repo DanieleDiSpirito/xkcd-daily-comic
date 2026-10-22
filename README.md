@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3313 – Fusion Device](https://xkcd.com/3313)
+### [#3314 – Vulnerability](https://xkcd.com/3314)
 ![Latest XKCD](latest-xkcd.png)
-> I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.
-_Last updated: 2026-10-20 12:21 UTC_
+> Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.
+_Last updated: 2026-10-22 12:35 UTC_
 EOF

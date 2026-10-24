@@ -1,1 +1,1 @@
-Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.
+The 'light' refers to bremsstrahlung.

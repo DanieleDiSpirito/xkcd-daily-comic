@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3316 – Siege Engine](https://xkcd.com/3316)
+### [#3317 – Gravitational Square Wave](https://xkcd.com/3317)
 ![Latest XKCD](latest-xkcd.png)
-> They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.
-_Last updated: 2026-10-27 12:49 UTC_
+> Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.
+_Last updated: 2026-10-29 13:47 UTC_
 EOF

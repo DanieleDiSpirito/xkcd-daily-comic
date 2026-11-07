@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3320 – House Majority](https://xkcd.com/3320)
+### [#3321 – Simulation](https://xkcd.com/3321)
 ![Latest XKCD](latest-xkcd.png)
-> For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.
-_Last updated: 2026-11-05 14:59 UTC_
+> No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.
+_Last updated: 2026-11-07 13:37 UTC_
 EOF

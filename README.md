@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3321 – Simulation](https://xkcd.com/3321)
+### [#3322 – Dragonfly](https://xkcd.com/3322)
 ![Latest XKCD](latest-xkcd.png)
-> No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.
-_Last updated: 2026-11-07 13:37 UTC_
+> I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'
+_Last updated: 2026-11-10 15:16 UTC_
 EOF

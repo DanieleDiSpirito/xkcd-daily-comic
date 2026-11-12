@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3322 – Dragonfly](https://xkcd.com/3322)
+### [#3323 – Meteor Fear](https://xkcd.com/3323)
 ![Latest XKCD](latest-xkcd.png)
-> I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'
-_Last updated: 2026-11-10 15:16 UTC_
+> Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!
+_Last updated: 2026-11-12 15:39 UTC_
 EOF

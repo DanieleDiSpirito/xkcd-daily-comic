@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3327 – Plate Maintenance](https://xkcd.com/3327)
+### [#3328 – Ivory Tower Elites](https://xkcd.com/3328)
 ![Latest XKCD](latest-xkcd.png)
-> First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.
-_Last updated: 2026-11-21 14:58 UTC_
+> These ivory tower elites are flouting both CITES and municipal building codes.
+_Last updated: 2026-11-24 18:25 UTC_
 EOF

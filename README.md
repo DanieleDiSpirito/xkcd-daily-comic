@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3328 – Ivory Tower Elites](https://xkcd.com/3328)
+### [#3329 – Cesium Atom](https://xkcd.com/3329)
 ![Latest XKCD](latest-xkcd.png)
-> These ivory tower elites are flouting both CITES and municipal building codes.
-_Last updated: 2026-11-24 18:25 UTC_
+> We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.
+_Last updated: 2026-11-26 17:23 UTC_
 EOF

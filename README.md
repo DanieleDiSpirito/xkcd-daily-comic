@@ -1,6 +1,6 @@
 # XKCD of the Day
-### [#3329 – Cesium Atom](https://xkcd.com/3329)
+### [#3330 – Tiny Squirrels](https://xkcd.com/3330)
 ![Latest XKCD](latest-xkcd.png)
-> We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.
-_Last updated: 2026-11-26 17:23 UTC_
+> It's actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it's hard to get the equations to cancel out and produce the observed small number.
+_Last updated: 2026-11-28 15:52 UTC_
 EOF
